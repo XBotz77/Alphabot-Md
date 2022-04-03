@@ -864,7 +864,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 Thanks!
 
 Contact person Owner:
-wa.me/${ownernomer}
+wa.me/6285822558496
 
     `
 }
